@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "demo2",
+        "demo/src/main/java/com/example/demo"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.dependency.packagePresentation": "hierarchical"
+}
