@@ -8,7 +8,7 @@ public class GreetingController {
 
     @GetMapping("/hello")
     public String hello() {
-        // sfsddddxxxx
+        // new comments
         return "Hello, I am returned from /hello api";
     }
 
